@@ -6212,7 +6212,7 @@ https://c0de517e.com/rss.xml
 https://c0mpiling.bearblog.dev/feed/
 https://c0mpute.com/blog/rss.xml
 https://c0n0.com/index.xml
-https://c0upons.com/blog/rss.xml
+https://c0upons.pwa.pit.world/blog/rss.xml
 https://c306.net/spkeasy/feed/
 https://c4sif.org/feed/
 https://c64demo.com/feed/feed.xml
